@@ -64,7 +64,7 @@ amazon-clone-main/
 ## Dependencies
 
 - [Jasmine](https://jasmine.github.io/) for unit testing (included in `tests/lib/`).
-- [Day.js](https://day.js.org/) and [SuperSimpleDev Hello](https://unpkg.com/supersimpledev@1.0.1/hello.esm.js) via CDN for date handling and demo purposes.
+- [Day.js](https://day.js.org/) via CDN for date handling.
 
 ## Notes
 
